@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+}
+
+th,
+td {
+  border: none;
+}
+
+#btn-submit {
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
